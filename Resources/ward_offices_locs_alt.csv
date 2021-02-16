@@ -1,0 +1,51 @@
+Ward Number,Latitude,Longitude,Neighborhoods,Navigator
+1,41.91812682,-87.68782059,"Wicker Park, West Town, Ukranian Village, Logan Square","N Side, W and Near W Side"
+2,41.90875947,-87.66802878,"Near North Side, Lincoln Park, Wicker Park, Ukranian Village, Gold Coast, Old Town and Bucktown","N Side, W and Near W Side"
+3,41.80455168,-87.62638703," Hyde Park, Bronzeville, Fuller Park and Grand Boulevard",Near S Side
+4,41.88555527,-87.63186959,"South Loop, Museum Campus, Douglas, Grand Boulevard, Hyde Park, North Kenwood/Oakland",S Side
+5,41.76672877,-87.56806268,"Indian Village, Hyde Park, Jackson Park, South Shore and Grand Crossing",S Side
+6,41.75274845,-87.6069162,"Chatham, Chesterfield, Englewood, Greater Grand Crossing, Park Manor, Auburn-Gresham ",S Side and Far S Side 
+7,41.72319092,-87.56837816,"Calumet Heights, Pill Hill, South Chicago, South Deering, South Shore",Far S Side
+8,41.75032152,-87.60307332,"Pullman, Avalon Park, South Shore, Burnside, Chatham, Calumet Heights",Far S Side
+9,41.69146483,-87.6213344,"Riverdale, West Pullman, Washington Heights, Roseland, Chatham",Far S Side and Far SW Side
+10,41.70600487,-87.53552635,"Hegewisch, East Side, South Deering, Jeffery Manor, Slag Valley, South Side, The Bush",Far S Side and S Side
+11,41.82853166,-87.64564681,"Bridgeport, Armour Square, McKinley Park, Fuller Park, New City",S Side 
+12,41.83270471,-87.67752931,"Brighton Park, McKinley Park, Little Village ",W and Near SW Side
+13,41.77644173,-87.72231761,"West Lawn, Clearing, West Elsdon, Garfield Ridge",SW Side 
+14,41.80336377,-87.6908333,"Far West Side, Archer Heights, Garfield Ridge, Brighton Park",SW Side 
+15,41.77883984,-87.66375964,"Back of the Yards, West Englewood, Gage Park, New City, Brighton Park",South and SW Side
+16,41.79705337,-87.66439678,"Chicago Lawn, West Englewood, Gage Park",SW Side 
+17,41.75222043,87.65791777,"Marquette Park, Gresham, West Englewood, Chicago Lawn",SW Side 
+18,41.74190133,-87.72109423,"Southwest Side, Ashburn, Marquette Park, Auburb Gresham",SW and Far SW
+19,41.70599537,-87.68219197,"Beverly, Mount Greenwood, Morgan Park, Washington Heights",Far SW Side
+20,41.79159367,-87.6302507,"Back of the Yards, Canaryville, Washington Park, Englewood",S and SW Side
+21,41.73082758,-87.66284557,"Roseland, Chatham, Gresham, Washington Heights, Auburn Gresham",Far SW Side
+22,41.84984802,-87.71241824,"South Lawndalwe, Little Village, Archer Heights",W and Near W Side
+23,41.79469865,-87.77566964,"West Elsdon, West Lawn, Garfield Ridge and Clearing",Far W Side and SW Side
+24,41.86759906,-87.72986877,"North Lawndale, Douglas Park, Little Village",W and Near W Side
+25,41.85939264,-87.66399376,"Pilsen, Greek Town, Chinatown, University Village/Little Italy",Lower W Side
+26,41.90425932,87.68905127,"Humboldt Park, Hermosa, Ukrainian Village, Logan Square","N Side, W and Near W Side"
+27,41.88302243,-87.68733514,"East Garfield Park, Humboldt Park, Illinois Medical District, Greektown, United Center Park",Near W Side and Near N Side
+28,41.87943273,-87.69246857,"West Garfield Park, East Garfield Park, Austin, Douglas Park, Illinois medical District, University Village, Little Italy",W and Near W Side
+29,41.91083666,-87.78320631,"Austin, Montclare, Belmont Cragin",NW Side
+30,41.94698365,-87.73374476,"Belmont Cragin, Portage Park, Irving Park",NW Side
+31,41.93280744,-87.742242,"Hermosa, Belmont-Cragin, Logan Square",NW Side
+32,41.93161397,-87.67517749,"Wicker Park, Logan Square, Bucktown, Roscoe Village",N Side
+33,41.95489782,-87.70329172,"Albany Park, Irving Park and Avondale","N Side, NW Side"
+34,41.69329455,-87.63563035,"West Pullman, Washington Heights, Moran Park, Roseland",Far S Side
+35,41.93696523,-87.71653873,"Albany Park, Irving Park, Avondale, Logan Square, Hermosa","NW Side, Far N Side"
+36,41.93216908,-87.79975727,"Montclare, Portage Park, Belmont Cragin, Hermosa",NW Side
+37,41.89675639,-87.74877644,"Austin, Humboldt Park",W and Near W Side
+38,41.95155433,-87.8065743,"Portage Park, Dunning",NW Side
+39,41.97014959,-87.73299156,"North Park, Jefferson Park, Albany Park",Far N. Side
+40,41.98517257,-87.68906737,"Lincoln Square, Edgewater, West Ridge",Far N. Side
+41,42.01795288,-87.80670543,"Edison Park, Edgebrook, Norwood Park, O'Hare",Far NW Side
+42,41.88523568,-87.63230598,"Streeterville, Gold Coast, Near W Loop, River North, Neaer E Side, Fulton River District, Loop","Central, Near N, and Near S Side"
+43,41.92915198,-87.64815534,"Lincoln Park, Old Town",N Side
+44,41.94187265,-87.65342857,Lakeview,N Side
+45,41.96861365,-87.76311454,"Old Irving Park, Portgage, Jefferson Park, Norwood Park","Far N. Side, NW Side"
+46,41.96565438,-87.6569241,"Buena Park, Lakeview, Uptown","Far N. Side, N. Side"
+47,41.96057952,-87.68254523,"North Center, Roscoe Village, Lincoln Square, Uptown","Far N. Side, N. Side"
+48,41.9842186,-87.66002389,"Edgewater, Andersonville, Uptwon",Far N. Side
+49,42.0094049,-87.66762622,Roger's Park,Far N. Side
+50,41.99844462,-87.70338804,"West Ridge, West Roger's Park",Far N. Side
